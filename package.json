@@ -1,0 +1,22 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "this is practice of crud operations",
+  "main": "deepak.js",
+  "scripts": {
+    "start": "nodemon deepak.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEV-SHUKLA-GITHUB/CRUD-operations.git"
+  },
+  "author": "dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEV-SHUKLA-GITHUB/CRUD-operations/issues"
+  },
+  "homepage": "https://github.com/DEV-SHUKLA-GITHUB/CRUD-operations#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

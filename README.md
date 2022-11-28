@@ -1,2 +1,1 @@
-# CRUD-operation
-simple crud operations using node-js
+# CRUD-operations
